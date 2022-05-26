@@ -1,0 +1,232 @@
+.hitec-form-signin {
+    width: 320px;
+    border: 5px solid #6bb9f0;
+    background: #f7f7f7;
+    padding: 15px;
+    height: 370px;
+    margin: 0 auto;
+    margin-top: 205px;
+    position: relative;
+    left: -500px;
+}
+body {
+    font-family: Arial,sans-serif;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #f4f4f4;
+    margin: 0px;
+    margin-block-start: 10px;
+    background-image: url('../images/background4.jpg');
+    background-size: cover;
+    background-position-y: -100px;
+  
+}
+.form-signin-heading {
+    font-family: Calibri;
+    font-size: 25px;
+    font-weight: bold;
+    color: #006eb7;
+    margin-bottom: 20px;
+}
+h2, .h2 {
+    font-size: 25px;
+}
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 17px;
+    margin-bottom: 8.5px;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: inherit;
+    font-weight: 250;
+    line-height: 1.1;
+    color: inherit;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+    font-family: Arial,sans-serif;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #f4f4f4;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+body {
+    font-family: Arial,sans-serif;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #f4f4f4;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.hitec-form-signin .btn-custom {
+    margin: 20px auto;
+}
+.btn-block {
+    display: block;
+    
+}
+.btn-lg, .btn-group-lg>.btn {
+    padding: 8px 12px;
+    font-size: 15px;
+    line-height: 1.3333333;
+    border-radius: 4px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 4px 10px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    border-radius: 2px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+button {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+button {
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+body {
+    font-family: Arial,sans-serif;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #f4f4f4;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
